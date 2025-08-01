@@ -1,4 +1,4 @@
-# CS-340: Trip Booking API (Databases)
+# CS-340: Animal Shelter (Databases)
 
 ## Overview
 This project demonstrates full-stack development with a focus on backend and database integration. I created a trip booking API that handles user input, trip management, and database operations.
