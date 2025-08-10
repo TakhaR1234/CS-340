@@ -1,4 +1,4 @@
-CS-340: Animal Shelter (Databases)
+# CS-340: Animal Shelter (Databases)
 # Overview
 This project demonstrates full-stack development with a focus on backend and database integration. The application connects to a MongoDB database and provides an interactive dashboard for managing animal shelter data using the Dash framework.
 
